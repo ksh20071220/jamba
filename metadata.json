@@ -1,0 +1,7 @@
+{
+  "name": "숭실 잠바 공구",
+  "description": "우리 소속의 잠바, 함께 모아 더 저렴하게 - 숭실대학교 잠바 공동구매 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
